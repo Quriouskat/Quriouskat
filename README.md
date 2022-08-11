@@ -1,6 +1,6 @@
 # Hello! 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-akingbade)](https://www.linkedin.com/in/emmanuel-akingbade) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Qurious_Kat)](https://twitter.com/Qurious_Kat)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-akingbade)](https://www.linkedin.com/in/emmanuel-akingbade) [![Twitter Badge](https://img.shields.io/badge/-@Qurious_Kat-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Qurious_Kat)](https://twitter.com/Qurious_Kat)
 
 I'm an aspiring Software Engineer who has a passion for cloud engineering. Currently learning with [thealtschool](https://thealtschool.com/).
 
